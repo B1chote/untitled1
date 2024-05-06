@@ -1,0 +1,5 @@
+package sesion1403.trabajos;
+
+public enum Colores {
+    ROJO,VERDE,AMARILLO,NEGRO,BLANCO,MARRON,AZUL,MORADO,ROSA,LILA,PURPURA,NARANJA,GRIS
+}
